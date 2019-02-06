@@ -1,3 +1,7 @@
+//@mc Releasing Process I Love 1902
+//@v ChangeLog are generated from commits
+//@a Observing this and model based on 
+
 const fs = require('fs')
 const path = require('path')
 const execa = require('execa')
