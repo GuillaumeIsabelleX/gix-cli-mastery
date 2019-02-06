@@ -1,3 +1,7 @@
+
+//@mc 190206 CHANGELOG as Current Reality represented by the Commits during the creation of the results
+//@a An automated CHANGELOG is created from the Commit
+
 const chalk = require('chalk')  // eslint-disable-line
 const msgPath = process.env.GIT_PARAMS
 const msg = require('fs').readFileSync(msgPath, 'utf-8').trim()
